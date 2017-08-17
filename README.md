@@ -1,6 +1,10 @@
 # GenFSMHelers
 
-**TODO: Add description**
+Helper functions to be used with GenFSM.
+
+Adds `next_state` and `reply` functions so you don't have to enter the tuples.
+
+First argument is the state data so they fit will into a pipeline
 
 ## Installation
 
