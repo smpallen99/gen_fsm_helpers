@@ -23,3 +23,10 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/gen_fsm_helpers](https://hexdocs.pm/gen_fsm_helpers).
 
+## License
+
+ex_ami is Copyright (c) 2017 Stephen Pallen
+
+The source code is released under the MIT License.
+
+Check [LICENSE](LICENSE) for more information.
