@@ -1,6 +1,11 @@
 defmodule GenFSMHelpers do
   @moduledoc """
-  Documentation for GenFSMHelpers.
+  Helper library for GenFSM.
+
+  Add helper functions to eliminate returning those nasty tuples.
+
+  * next_state
+  * reply
   """
 
   @doc """
